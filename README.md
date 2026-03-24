@@ -1,13 +1,9 @@
-# WildWorld
-
-
 <div align="center">
 
-
-
+<h2>WildWorld: A Large-Scale Dataset for Dynamic World Modeling<br>with Actions and Explicit State toward Generative ARPG</h2>
 
 [![project page](https://img.shields.io/badge/Project-Page-2ea44f)](https://shandaai.github.io/wildworld-project/)&nbsp;
-[![arXiv](https://img.shields.io/badge/arXiv20paper-xxxx.xxxxx-b31b1b.svg)](https://arxiv.org/)&nbsp;
+[![arXiv](https://img.shields.io/badge/arXiv%20paper-xxxx.xxxxx-b31b1b.svg)](https://arxiv.org/)&nbsp;
 [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=9vcSg553r2g)&nbsp;
 
 </div>
