@@ -3,14 +3,14 @@
 <h2>WildWorld: A Large-Scale Dataset for Dynamic World Modeling<br>with Actions and Explicit State toward Generative ARPG</h2>
 
 [![project page](https://img.shields.io/badge/Project-Page-2ea44f)](https://shandaai.github.io/wildworld-project/)&nbsp;
-[![arXiv](https://img.shields.io/badge/arXiv%20paper-xxxx.xxxxx-b31b1b.svg)](https://arxiv.org/)&nbsp;
+[![arXiv](https://img.shields.io/badge/arXiv%20paper-2603.23497-b31b1b.svg)](https://arxiv.org/abs/2603.23497)&nbsp;
 [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=9vcSg553r2g)&nbsp;
 
 </div>
 
 This repo contains the dataset and benchmark code used in
 
-> [**WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG**](https://arxiv.org/)
+> [**WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG**](https://arxiv.org/abs/2603.23497)
 >
 > Zhen Li, Zian Meng, Shuwei Shi, Wenshuo Peng, Yuwei Wu, Bo Zheng, Chuanhao Li, Kaipeng Zhang
 >
@@ -47,5 +47,13 @@ See [LICENSE](./LICENSE).
 If you find this project helpful, please consider citing:
 
 ```bibtex
-tbd
+@misc{li2026wildworldlargescaledatasetdynamic,
+      title={WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG}, 
+      author={Zhen Li and Zian Meng and Shuwei Shi and Wenshuo Peng and Yuwei Wu and Bo Zheng and Chuanhao Li and Kaipeng Zhang},
+      year={2026},
+      eprint={2603.23497},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2603.23497}, 
+}
 ```
